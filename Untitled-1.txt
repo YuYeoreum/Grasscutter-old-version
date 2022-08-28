@@ -1,0 +1,260 @@
+/givechar 10000002 90
+/givechar 10000003 90
+/givechar 10000005 90
+/givechar 10000006 90
+/givechar 10000007 90
+/givechar 10000014 90
+/givechar 10000015 90
+/givechar 10000016 90
+/givechar 10000020 90
+/givechar 10000021 90
+/givechar 10000022 90
+/givechar 10000023 90
+/givechar 10000024 90
+/givechar 10000025 90
+/givechar 10000026 90
+/givechar 10000027 90
+/givechar 10000029 90
+/givechar 10000030 90
+/givechar 10000031 90
+/givechar 10000032 90
+/givechar 10000033 90
+/givechar 10000034 90
+/givechar 10000035 90
+/givechar 10000036 90
+/givechar 10000037 90
+/givechar 10000038 90
+/givechar 10000039 90
+/givechar 10000041 90
+/givechar 10000042 90
+/givechar 10000043 90
+/givechar 10000044 90
+/givechar 10000045 90
+/givechar 10000046 90
+/givechar 10000047 90
+/givechar 10000048 90
+/givechar 10000049 90
+/givechar 10000050 90
+/givechar 10000051 90
+/givechar 10000052 90
+/givechar 10000053 90
+/givechar 10000054 90
+/givechar 10000055 90
+/givechar 10000056 90
+/givechar 10000057 90
+/givechar 10000058 90
+/givechar 10000062 90
+/givechar 10000063 90
+/givechar 10000064 90
+/givechar 10000066 90
+/givechar 10000067 90
+/givechar 10000068 90
+/givechar 10000069 90
+
+
+/give 11101 x1 lv90 r5 
+/give 11201 x1 lv90 r5 
+/give 11301 x1 lv90 r5 
+/give 11302 x1 lv90 r5 
+/give 11303 x1 lv90 r5 
+/give 11304 x1 lv90 r5 
+/give 11305 x1 lv90 r5 
+/give 11306 x1 lv90 r5 
+/give 11401 x1 lv90 r5 
+/give 11402 x1 lv90 r5 
+/give 11403 x1 lv90 r5 
+/give 11404 x1 lv90 r5 
+/give 11405 x1 lv90 r5 
+/give 11406 x1 lv90 r5 
+/give 11407 x1 lv90 r5 
+/give 11408 x1 lv90 r5 
+/give 11409 x1 lv90 r5 
+/give 11410 x1 lv90 r5 
+/give 11411 x1 lv90 r5
+/give 11412 x1 lv90 r5 
+/give 11413 x1 lv90 r5 
+/give 11414 x1 lv90 r5 
+/give 11415 x1 lv90 r5 
+/give 11416 x1 lv90 r5 
+/give 11417 x1 lv90 r5 
+/give 11419 x1 lv90 r5 
+/give 11420 x1 lv90 r5 
+/give 11421 x1 lv90 r5 
+/give 11501 x1 lv90 r5 
+/give 11502 x1 lv90 r5 
+/give 11503 x1 lv90 r5 
+/give 11504 x1 lv90 r5 
+/give 11505 x1 lv90 r5 
+/give 11506 x1 lv90 r5 
+/give 11507 x1 lv90 r5 
+/give 11508 x1 lv90 r5
+/give 11509 x1 lv90 r5 
+/give 11510 x1 lv90 r5 
+/give 12101 x1 lv90 r5 
+/give 12201 x1 lv90 r5 
+/give 12301 x1 lv90 r5 
+/give 12302 x1 lv90 r5 
+/give 12303 x1 lv90 r5 
+/give 12304 x1 lv90 r5 
+/give 12305 x1 lv90 r5 
+/give 12306 x1 lv90 r5 
+/give 12401 x1 lv90 r5 
+/give 12402 x1 lv90 r5 
+/give 12403 x1 lv90 r5 
+/give 12404 x1 lv90 r5 
+/give 12405 x1 lv90 r5 
+/give 12406 x1 lv90 r5 
+/give 12407 x1 lv90 r5 
+/give 12408 x1 lv90 r5 
+/give 12409 x1 lv90 r5 
+/give 12410 x1 lv90 r5 
+/give 12411 x1 lv90 r5 
+/give 12412 x1 lv90 r5 
+/give 12414 x1 lv90 r5 
+/give 12416 x1 lv90 r5 
+/give 12417 x1 lv90 r5 
+/give 12501 x1 lv90 r5 
+/give 12502 x1 lv90 r5 
+/give 12503 x1 lv90 r5 
+/give 12504 x1 lv90 r5 
+/give 12505 x1 lv90 r5 
+/give 12506 x1 lv90 r5
+/give 12508 x1 lv90 r5
+/give 12509 x1 lv90 r5
+/give 12510 x1 lv90 r5 
+/give 13101 x1 lv90 r5 
+/give 13201 x1 lv90 r5 
+/give 13301 x1 lv90 r5 
+/give 13302 x1 lv90 r5 
+/give 13303 x1 lv90 r5 
+/give 13304 x1 lv90 r5 
+/give 13401 x1 lv90 r5 
+/give 13402 x1 lv90 r5 
+/give 13403 x1 lv90 r5 
+/give 13404 x1 lv90 r5 
+/give 13405 x1 lv90 r5 
+/give 13406 x1 lv90 r5 
+/give 13407 x1 lv90 r5 
+/give 13408 x1 lv90 r5 
+/give 13409 x1 lv90 r5 
+/give 13414 x1 lv90 r5 
+/give 13415 x1 lv90 r5 
+/give 13416 x1 lv90 r5 
+/give 13417 x1 lv90 r5 
+/give 13501 x1 lv90 r5 
+/give 13502 x1 lv90 r5 
+/give 13503 x1 lv90 r5
+/give 13504 x1 lv90 r5 
+/give 13505 x1 lv90 r5 
+/give 13506 x1 lv90 r5 
+/give 13507 x1 lv90 r5
+/give 13509 x1 lv90 r5 
+/give 14101 x1 lv90 r5 
+/give 14201 x1 lv90 r5 
+/give 14301 x1 lv90 r5 
+/give 14302 x1 lv90 r5 
+/give 14303 x1 lv90 r5 
+/give 14304 x1 lv90 r5 
+/give 14305 x1 lv90 r5 
+/give 14306 x1 lv90 r5 
+/give 14401 x1 lv90 r5 
+/give 14402 x1 lv90 r5 
+/give 14403 x1 lv90 r5 
+/give 14404 x1 lv90 r5 
+/give 14405 x1 lv90 r5 
+/give 14406 x1 lv90 r5 
+/give 14407 x1 lv90 r5 
+/give 14408 x1 lv90 r5 
+/give 14409 x1 lv90 r5
+/give 14410 x1 lv90 r5 
+/give 14411 x1 lv90 r5
+/give 14412 x1 lv90 r5 
+/give 14413 x1 lv90 r5 
+/give 14414 x1 lv90 r5 
+/give 14415 x1 lv90 r5 
+/give 14417 x1 lv90 r5 
+/give 14501 x1 lv90 r5 
+/give 14502 x1 lv90 r5 
+/give 14503 x1 lv90 r5 
+/give 14504 x1 lv90 r5 
+/give 14505 x1 lv90 r5 
+/give 14506 x1 lv90 r5 
+/give 14508 x1 lv90 r5
+/give 14509 x1 lv90 r5 
+/give 15101 x1 lv90 r5 
+/give 15201 x1 lv90 r5 
+/give 15301 x1 lv90 r5 
+/give 15302 x1 lv90 r5 
+/give 15303 x1 lv90 r5
+/give 15304 x1 lv90 r5
+/give 15305 x1 lv90 r5
+/give 15306 x1 lv90 r5 
+/give 15401 x1 lv90 r5 
+/give 15402 x1 lv90 r5
+/give 15403 x1 lv90 r5 
+/give 15404 x1 lv90 r5 
+/give 15405 x1 lv90 r5 
+/give 15406 x1 lv90 r5 
+/give 15407 x1 lv90 r5 
+/give 15408 x1 lv90 r5 
+/give 15409 x1 lv90 r5 
+/give 15410 x1 lv90 r5 
+/give 15411 x1 lv90 r5
+/give 15412 x1 lv90 r5 
+/give 15413 x1 lv90 r5 
+/give 15414 x1 lv90 r5 
+/give 15415 x1 lv90 r5 
+/give 15416 x1 lv90 r5 
+/give 15417 x1 lv90 r5 
+/give 15418 x1 lv90 r5 
+/give 15501 x1 lv90 r5 
+/give 15502 x1 lv90 r5 
+/give 15503 x1 lv90 r5 
+/give 15504 x1 lv90 r5 
+/give 15505 x1 lv90 r5 
+/give 15506 x1 lv90 r5 
+/give 15507 x1 lv90 r5 
+/give 15508 x1 lv90 r5
+/give 15509 x1 lv90 r5 
+/give 15511 x1 lv90 r5
+
+
+/quest add 1200801
+/quest add 1200802
+/quest add 1200803
+/quest add 1200804
+/quest add 1200805
+/quest add 1200806
+/quest add 1200807
+/quest add 1200808
+/quest add 1200809
+/quest add 1200810
+/quest add 1200811
+/quest add 1200812
+/quest add 1200813
+/quest add 1200814
+/quest add 1200815
+/quest add 1200816
+/quest add 1200817
+/quest add 1200818
+/quest add 1200819
+
+/quest finish 1200801
+/quest finish 1200802
+/quest finish 1200803
+/quest finish 1200804
+/quest finish 1200805
+/quest finish 1200806
+/quest finish 1200807
+/quest finish 1200808
+/quest finish 1200809
+/quest finish 1200810
+/quest finish 1200811
+/quest finish 1200812
+/quest finish 1200813
+/quest finish 1200814
+/quest finish 1200815
+/quest finish 1200816
+/quest finish 1200817
+/quest finish 1200818
+/quest finish 1200819
